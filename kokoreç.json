@@ -1,0 +1,14 @@
+{
+    "ayarlar": {
+        "OwnerID": ["830872038004359240"],
+        "Durum": "",
+        "SunucuID": "",
+        "SesKanal": "",
+        "EnAltYetkili": ""
+    },
+    "Ses": {
+        "Kayıtsızgiris": "ses/hosgeldin.mp3",
+        "YetkiliGiris": "ses/yetkili.mp3"
+    },
+    "TOKEN": ""
+} 
